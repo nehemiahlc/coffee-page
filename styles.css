@@ -153,13 +153,13 @@ input:focus {
     Media queries 
    ================= */
 
-@media (min-width: 576px) {
+@media (min-width: 630px) {
     body {
         display: flex;
     }
     
     h1 {
-        font-size: 5vw;
+        font-size: 6vw;
     }
     
     h2 {
